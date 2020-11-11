@@ -8,7 +8,7 @@ Dataset collected from NASA's Data Portal.
 
 The Meteorite Landings dataset contains location, mass, and composition data on over 45k meteorites that have landed on Earth.
 
-#### To start the application, first install required libs:
+#### To start the program, first install required libs:
 
 <ol>
 <li>pip install numpy</li>
