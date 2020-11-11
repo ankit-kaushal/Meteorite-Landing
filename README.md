@@ -7,3 +7,13 @@ Approach : Regression Algorithm
 Dataset collected from NASA's Data Portal.
 
 The Meteorite Landings dataset contains location, mass, and composition data on over 45k meteorites that have landed on Earth.
+
+#### To start the application, first install required libs:
+
+<ol>
+<li>pip install numpy</li>
+<li>pip install pandas</li>
+</ol>
+
+#### Now, you are ready to run. Run " python3 meteorite_landing.py " in terminal in linux or " python meteorite_landing.py " in command prompt in windows.
+
